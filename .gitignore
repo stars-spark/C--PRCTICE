@@ -1,0 +1,23 @@
+Failed to create stream fd: Operation not permitted
+Failed to create stream fd: Operation not permitted
+Failed to create stream fd: Operation not permitted
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# LaTeX intermediates; keep source, figures and final PDF tracked.
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# Local review and temporary files.
+.DS_Store
+tmp/
+
