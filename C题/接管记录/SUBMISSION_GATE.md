@@ -1,6 +1,3 @@
-Failed to create stream fd: Operation not permitted
-Failed to create stream fd: Operation not permitted
-Failed to create stream fd: Operation not permitted
 # 提交前检查门
 
 只有全部通过后才生成最终 PDF 和提交压缩包。

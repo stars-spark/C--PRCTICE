@@ -1,6 +1,3 @@
-Failed to create stream fd: Operation not permitted
-Failed to create stream fd: Operation not permitted
-Failed to create stream fd: Operation not permitted
 # 2026 国赛数模 C 题：微网调度
 
 本目录是 `stars-spark/C--PRCTICE` 的本地工作副本，用于接管 Claude Code 的国赛 C 题工作并继续做模型、代码、结果文件和论文的统一版本管理。

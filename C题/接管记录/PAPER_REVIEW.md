@@ -1,6 +1,3 @@
-Failed to create stream fd: Operation not permitted
-Failed to create stream fd: Operation not permitted
-Failed to create stream fd: Operation not permitted
 # 参赛论文审稿意见
 
 审稿对象：`C题/论文/main.pdf`，29 页。
